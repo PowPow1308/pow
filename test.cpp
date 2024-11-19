@@ -28,6 +28,9 @@ int main()
     // push
     // git remote add <tên muốn đặt vd: origi> <đường dẫn đến githup cần push> : gán đường dẫn vào origi
     // git push origi <tên brach> : tải branch đó lên githup
+//------------------------------------------------
+    // git clone [url] : tải tất cả branch về
+    // git clone [url] --branch [branch.name] --single-branch : tải về một branch cố định
     getch();
     return 0;
 }
