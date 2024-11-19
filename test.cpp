@@ -22,6 +22,8 @@ int main()
     // trước tiên : và branch muốn lưu các file vào
     // git merge <ten branch can gọp lại>
     // vd : đang ở branch master vè gõ lệnh "git merge dev" thì dev sẽ được gọp vào master
+    //------------------------------------
+    // git branch -b <branch.name> : xoá branch
 
     getch();
     return 0;
