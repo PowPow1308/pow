@@ -5,7 +5,7 @@ int main()
 {
     printf("hello githup\n");
 //----------------------------------------------REPO
-    // git init : đưa folde thì repo
+    // git init : đưa folde thành repo
     // git status : xem trạng thái của repo
     // git add . : là add tất cả các file lên để chuẩn bị lưu
     // git add <tenfile.đuôi> : là add file đó lên để chuẩn bị lưu
